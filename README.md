@@ -1,10 +1,10 @@
-## Challenge 9: EmployeeSQL 
+## EmployeeSQL Overview
 
 This project involves designing and implementing a SQL database to manage employee data for Pewlett Hackard, a fictional company. The database is populated with data from CSV files representing employee information from the 1980s and 1990s. The project includes data modeling, data engineering, and data analysis.
 
 ## Table of Contents
 
-- [Project Overview](#Challenge)
+- [EmployeeSQL Overview](#employeesql-overview)
 - [CSV Files](#csv-files)
 - [Database Schema](#database-schema)
 
